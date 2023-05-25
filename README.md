@@ -1,2 +1,2 @@
 # Big-Data-Large-Scale-Computing
-Course Assignments
+95-869 Big Data and Large-Scale Computing Homework
